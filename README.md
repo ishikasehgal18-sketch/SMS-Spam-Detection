@@ -55,3 +55,5 @@ The application predicts whether an entered SMS message is Spam or Not Spam.
 
 ## Author
 Ishika Sehgal
+Jiya Choudhary
+
